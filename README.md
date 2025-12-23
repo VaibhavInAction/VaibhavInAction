@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vaibhav Anil Kahalekar 👋</h1>
 
 <p align="center">
-  <b>B.Tech Information Technology Student | Python Developer | Machine Learning Enthusiast</b>
+  <b>B.Tech Information Technology Student | c/c++ Developer | Machine Learning Enthusiast</b>
 </p>
 
 <p align="left">
